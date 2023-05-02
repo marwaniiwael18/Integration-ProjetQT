@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>captchabox.png</file>
+        <file>chart.png</file>
+        <file>car.png</file>
+        <file>clock.png</file>
+        <file>edit-2.svg</file>
+        <file>file.png</file>
+        <file>map.png</file>
+        <file>programmer.png</file>
+        <file>money.png</file>
+        <file>range.png</file>
+        <file>route.png</file>
+        <file>triCroissant.png</file>
+        <file>triDecroissant.png</file>
+        <file>plus.svg</file>
+        <file>trash-2.svg</file>
+        <file>search.svg</file>
+        <file>buttons/pause.png</file>
+        <file>buttons/play.png</file>
+        <file>buttons/plus.png</file>
+        <file>buttons/skip-next.png</file>
+        <file>buttons/skip-previous.png</file>
+        <file>buttons/stop.png</file>
+        <file>940 (2).jpg</file>
+        <file>940.jpg</file>
+        <file>background.png</file>
+        <file>background (1).png</file>
+        <file>940 (2) (1).jpg</file>
+        <file>qrcode.png</file>
+        <file>excel.png</file>
+        <file>equipement.png</file>
+        <file>horloge.png</file>
+    </qresource>
+</RCC>
